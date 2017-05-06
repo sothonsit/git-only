@@ -7,7 +7,6 @@ class Main{
 			
 		}
 		system.out.print("Hello Annie");
-		system.out.print("Hello Annie Angry");
 		system.out.print("Hello My name is Stop");
 		system.out.print("Hello Proof");
 	}
