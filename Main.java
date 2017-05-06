@@ -6,7 +6,7 @@ class Main{
 		for(int i=0; i< 10; i++){
 			
 		}
-		system.out.print("Helloooooo Annie");
+		system.out.print("Hello Annie");
 		system.out.print("Hello Annie Cute");
 		system.out.print("Hello Annie Angry");
 		system.out.print("Hello My name is Stop");
