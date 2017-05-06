@@ -5,5 +5,6 @@ class Main{
 		system.out.print("Hello3");
 		system.out.print("Hello4");
 		system.out.print("Hello5");
+		system.out.print("Hello6");
 	}
 }
